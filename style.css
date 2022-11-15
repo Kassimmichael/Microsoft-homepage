@@ -326,3 +326,9 @@ ul {
     margin-bottom: 20px;
   }
 }
+
+@media screen and (max-width: 440px) {
+  .xbox a { 
+    padding: 3px ;
+  }
+}
