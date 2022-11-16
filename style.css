@@ -37,6 +37,10 @@ ul {
   font-size: 13px;
 }
 
+.logo {
+  cursor: pointer;
+}
+
 .main-nav .logo {
   width: 110px;
 }
